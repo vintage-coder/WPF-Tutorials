@@ -1,0 +1,9 @@
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\obj\Debug\CommonComponents.csproj.AssemblyReference.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\obj\Debug\CommonComponents.Properties.Resources.resources
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\obj\Debug\CommonComponents.csproj.GenerateResource.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\obj\Debug\CommonComponents.csproj.CoreCompileInputs.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\bin\Debug\CommonComponents.dll.config
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\bin\Debug\CommonComponents.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\bin\Debug\CommonComponents.pdb
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\obj\Debug\CommonComponents.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\CommonComponents\obj\Debug\CommonComponents.pdb

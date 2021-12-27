@@ -1,0 +1,9 @@
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\bin\Debug\DomainLayer.dll.config
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\bin\Debug\DomainLayer.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\bin\Debug\DomainLayer.pdb
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\obj\Debug\DomainLayer.Properties.Resources.resources
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\obj\Debug\DomainLayer.csproj.GenerateResource.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\obj\Debug\DomainLayer.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\obj\Debug\DomainLayer.pdb
+F:\Gowthaman\Windows Form\CRUDWinForm\DomainLayer\obj\Debug\DomainLayer.csproj.AssemblyReference.cache

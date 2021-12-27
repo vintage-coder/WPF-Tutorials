@@ -1,0 +1,16 @@
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\InfrastructureLayer.dll.config
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\InfrastructureLayer.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\InfrastructureLayer.pdb
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\DomainLayer.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\ServiceLayer.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\DomainLayer.pdb
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\DomainLayer.dll.config
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\ServiceLayer.pdb
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\bin\Debug\ServiceLayer.dll.config
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\obj\Debug\InfrastructureLayer.csproj.AssemblyReference.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\obj\Debug\InfrastructureLayer.Properties.Resources.resources
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\obj\Debug\InfrastructureLayer.csproj.GenerateResource.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\obj\Debug\InfrastructureLayer.csproj.CoreCompileInputs.cache
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\obj\Debug\InfrastructureLayer.csproj.CopyComplete
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\obj\Debug\InfrastructureLayer.dll
+F:\Gowthaman\Windows Form\CRUDWinForm\InfrastructureLayer\obj\Debug\InfrastructureLayer.pdb
