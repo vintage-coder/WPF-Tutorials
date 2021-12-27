@@ -1,0 +1,15 @@
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\bin\Debug\DataBinding.exe.config
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\bin\Debug\DataBinding.exe
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\bin\Debug\DataBinding.pdb
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.AssemblyReference.cache
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\MainWindow.g.cs
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\App.g.cs
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\MainWindow.baml
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding.g.resources
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.cache
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding.exe
+F:\Gowthaman\GitHub\WPF-Tutorials\Binding Example\DataBinding\DataBinding\obj\Debug\DataBinding.pdb

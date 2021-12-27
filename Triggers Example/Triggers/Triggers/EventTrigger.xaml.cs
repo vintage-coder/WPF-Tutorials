@@ -23,5 +23,7 @@ namespace Triggers
         {
             InitializeComponent();
         }
+
+        
     }
 }

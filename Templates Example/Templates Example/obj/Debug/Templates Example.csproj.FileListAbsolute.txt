@@ -1,0 +1,29 @@
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\bin\Debug\Templates Example.exe.config
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\bin\Debug\Templates Example.exe
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\bin\Debug\Templates Example.pdb
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example.csproj.AssemblyReference.cache
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\MainWindow.g.cs
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\App.g.cs
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example_MarkupCompile.cache
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example_MarkupCompile.lref
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\MainWindow.baml
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example.g.resources
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates_Example.Properties.Resources.resources
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example.csproj.GenerateResource.cache
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example.csproj.CoreCompileInputs.cache
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example.exe
+F:\Gowthaman\WPF Projects\Templates Example\Templates Example\obj\Debug\Templates Example.pdb
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\bin\Debug\Templates Example.exe.config
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\bin\Debug\Templates Example.exe
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\bin\Debug\Templates Example.pdb
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\ControlTemplate.g.cs
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\App.g.cs
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates Example_MarkupCompile.cache
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates Example_MarkupCompile.lref
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\ControlTemplate.baml
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates Example.g.resources
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates_Example.Properties.Resources.resources
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates Example.csproj.GenerateResource.cache
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates Example.csproj.CoreCompileInputs.cache
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates Example.exe
+F:\Gowthaman\GitHub\WPF-Tutorials\Templates Example\Templates Example\obj\Debug\Templates Example.pdb
